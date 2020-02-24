@@ -13,7 +13,7 @@ JQuery
 
 CONTACT:
 kabesh86@gmail.com
-(MIT License
+(MIT License.
 
 Copyright (c) 2020 cullen-kaberere
 
